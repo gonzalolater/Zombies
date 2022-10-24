@@ -1,1 +1,3 @@
-# Zombies
+#1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies https://cryptozombies.io/en/course/ #cryptozombies # blockchain # solidity 
+Transacciones realizadas en la red de prueba Goerli, en EtherScan https://goerli.etherscan.io/address/0xf0b7d6ce14fdda48e7a5bd6e03f559e5c42beac9#events
+![CriptoZombies io](https://user-images.githubusercontent.com/42863568/197650720-9bc6bcbd-019e-4b4b-9497-78dc6cec3df7.jpg)
