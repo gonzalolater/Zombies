@@ -1,0 +1,1 @@
+"so.linguist-lenguage=Solidity"
